@@ -234,7 +234,7 @@
                                  <note xml:id="w1r87odo" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="up" accid.ges="s" />
                                  <note xml:id="z1ssg3bs" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="up" accid.ges="s" />
                                  <note xml:id="b1rpbv55" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="up" />
-                                 <tuplet num-
+                                 <tuplet num="3" 
                                  <note xml:id="c1bmmuvt" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up">
                                     <accid xml:id="d1et3sjw" accid="s" />
                                  </note>
