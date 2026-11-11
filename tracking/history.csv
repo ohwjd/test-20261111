@@ -8,3 +8,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-11-11T10:32:06.074Z,T0001,,38179254,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""T0001""}",10
 2026-11-11T10:49:49.573Z,T0001,,38179254,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""T0001"",""subtask_id"":""""}",11
 2026-11-11T10:51:04.226Z,T0001,,38179254,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""T0001""}",12
+2026-11-11T10:57:23.493Z,T0001,,38179254,submit_encoding,accepted,,campaign.submitEncoding,1,"{""task_id"":""T0001""}",13
