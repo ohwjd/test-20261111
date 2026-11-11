@@ -234,7 +234,7 @@
                                  <note xml:id="w1r87odo" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="up" accid.ges="s" />
                                  <note xml:id="z1ssg3bs" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="up" accid.ges="s" />
                                  <note xml:id="b1rpbv55" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="up" />
-                                 <tuplet num="3" 
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="c1bmmuvt" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up">
                                     <accid xml:id="d1et3sjw" accid="s" />
                                  </note>
@@ -242,6 +242,7 @@
                                     <accid xml:id="f10bytm7" accid="n" />
                                  </note>
                                  <note xml:id="gtpjcbj" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up" accid.ges="s" />
+                                    </tuplet>
                               </beam>
                               <beam xml:id="isokgum">
                                  <note xml:id="j26eb0c" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
@@ -354,11 +355,13 @@
                               <beam xml:id="g16dtr7s">
                                  <note xml:id="hxrzmla" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="up" accid.ges="s" />
                                  <note xml:id="k1wnt6pb" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="up" accid.ges="s" />
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="m81zzq8" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="up" />
                                  <note xml:id="nzwv5sb" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up">
                                     <accid xml:id="ovr2bz1" accid="s" />
                                  </note>
                                  <note xml:id="p1lp5wt6" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up" accid.ges="s" />
+                                 </tuplet>
                               </beam>
                               <beam xml:id="rv4uc7p">
                                  <note xml:id="s1tv9if7" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
